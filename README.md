@@ -30,6 +30,7 @@ URL Shortener is a responsive website whose main function is to shorten long URL
 
 ` npm install `
 
+![Captura de pantalla 2022-06-27 130319](https://user-images.githubusercontent.com/92597205/175927235-5f4776a2-58b8-4a6a-b737-64887a4da13c.png)
 
 
 ## USAGE 
@@ -47,5 +48,8 @@ URL Shortener is a responsive website whose main function is to shorten long URL
 
 ![pamMovie](https://user-images.githubusercontent.com/92597205/175924476-558b4bd2-a6ca-4021-8c71-7b06f1df4a5b.svg)
 
+## COLABORATORS🤝
 
-
+<a href="https://github.com/aldo-castellano/PAMovies/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aldo-castellano/PAMovies" />
+</a>
