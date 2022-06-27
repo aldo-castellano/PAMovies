@@ -1,3 +1,4 @@
+
 <h1 align="center">Pamovies</h1> 
 
 Designed by [Aldo Castellano](https://www.linkedin.com/in/aldo-castellano/ "Aldo Castellano")
@@ -47,10 +48,14 @@ pamovies is a website where using the api <a src=""></a>[The Movie Data Base](ht
 
 <br>
 
-![pamMovie](https://user-images.githubusercontent.com/92597205/175924476-558b4bd2-a6ca-4021-8c71-7b06f1df4a5b.svg)
+![Group 5](https://user-images.githubusercontent.com/92597205/175949418-946144fc-961a-42a9-ae32-b8a19a72f2f7.jpg)
+
 
 ## COLABORATORS🤝
 
 <a href="https://github.com/aldo-castellano/PAMovies/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aldo-castellano/PAMovies" />
 </a>
+
+
+
