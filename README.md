@@ -1,4 +1,4 @@
-<h1 align="center">Url Shortener</h1> 
+<h1 align="center">Pamovies</h1> 
 
 Designed by [Aldo Castellano](https://www.linkedin.com/in/aldo-castellano/ "Aldo Castellano")
 
@@ -9,7 +9,8 @@ Designed by [Aldo Castellano](https://www.linkedin.com/in/aldo-castellano/ "Aldo
 
 ## ABOUT THE PROJECT 🖐️
 <br>
-URL Shortener is a responsive website whose main function is to shorten long URLs. You can also manage the number of times they enter the shortened URL or if you prefer you can delete that URL.
+
+pamovies is a website where using the api <a src=""></a>[The Movie Data Base](https://www.themoviedb.org/documentation/api/ "The Movie Data Base") you can search for the summary, cast, trailers and more... of a movie. In this project we tested our abilities to work as a team, communication and empathy. Which were vital to finish the project.
 
 <br>
 
